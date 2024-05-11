@@ -1,0 +1,5 @@
+dependencies {
+    implementation project(':common-api')
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    implementation 'org.springframework.boot:spring-boot-starter-data-mongodb:3.0.0'
+}
